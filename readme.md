@@ -4,6 +4,7 @@ Este repositorio documenta mi progreso en los proyectos realizados durante mi ti
 <p align="center">
     <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/kegonzal?1337Badge=off&UM6P=off" alt="kegonzal's 42 stats" /></a>
 </p>
+
 ---
 
 ## 🚀 Proyectos
@@ -20,7 +21,7 @@ Implementación de la biblioteca estándar de C, creada desde cero. Incluye func
 
 Implementación de la función printf de la biblioteca estándar de C, con soporte para varios formatos de salida.
 
-#### [BORN2BEROOT](https://github.com/Kevgonz93/born2beroot)
+#### [Born2beroot](https://github.com/Kevgonz93/born2beroot)
 
 Apuntes personales y orientativos para la realización del proyecto Born2BeRoot.
 
@@ -37,7 +38,9 @@ Un proyecto de ordenación de números usando dos pilas, optimizado para realiza
 
 Implementación de un programa que simula el uso de pipes en la terminal. Utiliza las funciones fork y exec para crear procesos y redirigir la salida estándar.
 
+---
+
 ## 🌐 Enlaces
 
-[Kevgonz93 en GitHub](https://github.com/Kevgonz93)
-[Fundación 42 Madrid](https://www.42madrid.com)
+- [Kevgonz93 en GitHub](https://github.com/Kevgonz93)
+- [Fundación 42 Madrid](https://www.42madrid.com)
