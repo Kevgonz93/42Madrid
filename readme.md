@@ -42,5 +42,6 @@ Implementación de un programa que simula el uso de pipes en la terminal. Utiliz
 
 ## 🌐 Enlaces
 
-- [Kevgonz93 en GitHub](https://github.com/Kevgonz93)
-- [Fundación 42 Madrid](https://www.42madrid.com)
+- 👨🏾‍💻 [Kevgonz93 en GitHub](https://github.com/Kevgonz93)
+- 💼 [Kevin Gonzales en LinkedIn](https://www.linkedin.com/in/kevgonzdeveloper)
+- 📝 [Fundación 42 Madrid](https://www.42madrid.com)
