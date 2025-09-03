@@ -2,9 +2,11 @@
 
 Este repositorio documenta mi progreso en los proyectos realizados durante mi tiempo en **42Madrid**. Aquí puedes encontrar estadísticas detalladas, enlaces a los repositorios de cada proyecto y una descripción de lo que he aprendido hasta ahora.
 
-<p align="center">
-    <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/kegonzal?1337Badge=off&UM6P=off" alt="kegonzal's 42 stats" /></a>
-</p>
+<div align="center">
+
+[![kegonzal's 42 stats](https://badge.mediaplus.ma/black/kegonzal?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+</div>
 
 ---
 
